@@ -1,0 +1,32 @@
+del C:\Users\vaibh\AppData\Roaming\npm
+
+npx create-react-app my-app
+npm init react-app my-app
+yarn create react-app my-app
+
+
+
+
+
+ssh-keygen -t ed25519 -C "vaibhav.chandra1998@gmail.com"
+
+cp  C:\Users\vaibh\.ssh\id_ed25519.pub
+cp  C:\Users\vaibh\.ssh\id_ed25519    
+
+cat .\ssh\home\id_ed25519.pub
+
+git config --global user.signingkey "KEY"
+git push git@github.com:chandravaibhav98/Master-the-Coding-Interview---Data-Structures---Algorithms.git
+
+ssh -vT git@github.com
+
+ssh -T chandravaibhav98@github.com
+
+
+
+
+
+
+
+
+
